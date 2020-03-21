@@ -3,7 +3,7 @@ function shout(string) {
 }
 
 function whisper(string) {
-  return string.toLowerCase)
+  return string.toLowerCase()
 }
 
 function logShout(string) {
@@ -11,7 +11,7 @@ function logShout(string) {
 }
 
 function logWhisper(string) {
-  console.logstring.toLowerCase()
+  console.log string.toLowerCase()
 }
 
 function sayHiToGrandma(string) {
